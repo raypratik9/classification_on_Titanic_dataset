@@ -1,11 +1,11 @@
 # classification_on_Titanic_dataset
 
 # K-NN classifier
-Accuracy of K-NN classifier on training set: 0.80
+Accuracy of K-NN classifier on training set: 0.80                        
 Accuracy of K-NN classifier on test set: 0.65
 
 # LDA classifier
-Accuracy of LDA classifier on training set: 0.80
+Accuracy of LDA classifier on training set: 0.80                                        
 Accuracy of LDA classifier on test set: 0.77
 
 # GNB classifier
